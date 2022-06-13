@@ -26,7 +26,7 @@
 |4|DNA gyrase subunit A|5|13713.99|13713.99|783.823|13713.99|2097.5761|
 |5|DUF58 domain-containing protein|5|8922.646|907.7149|3700.972|4263.555|3428.529|
 
-- Множественное белковое выравнивание смотри в файлах cluster[0-4].faa 
+- Множественное белковое выравнивание смотри в файлах cluster[0-4]_aligned.faa 
 # Визуализация
 ![image](https://user-images.githubusercontent.com/93038145/173428259-b0cb4cab-f17f-464e-932a-4b0f8f7e187a.png)
 ![image](https://user-images.githubusercontent.com/93038145/173428302-43bd7db3-ad04-457e-ab80-abdaa7f690b9.png)
