@@ -28,8 +28,9 @@
 
 - Множественное белковое выравнивание смю в папке data(https://github.com/antonsokol57/hse22_project/tree/main/data)
 # Визуализация
-![image](https://user-images.githubusercontent.com/92381120/173237951-ee894a74-7583-4971-abcd-6e476626a3c2.png)
-![image](https://user-images.githubusercontent.com/92381120/173237955-5ddb4eee-23e0-40ff-bdf5-a6c3945d4154.png)
-![image](https://user-images.githubusercontent.com/92381120/173237959-6165c9f8-3af5-4f11-9b33-9422ae507024.png)
-![image](https://user-images.githubusercontent.com/92381120/173237964-d6f5aa6c-482b-4a37-b879-7d6d65e51628.png)
-![image](https://user-images.githubusercontent.com/92381120/173237967-c0950539-e02c-4c88-87e1-3d0eb9e8e175.png)
+![image](https://user-images.githubusercontent.com/93038145/173428259-b0cb4cab-f17f-464e-932a-4b0f8f7e187a.png)
+![image](https://user-images.githubusercontent.com/93038145/173428302-43bd7db3-ad04-457e-ab80-abdaa7f690b9.png)
+![image](https://user-images.githubusercontent.com/93038145/173428370-70ac8a4c-04c9-424d-8a06-23e4680a8898.png)
+![image](https://user-images.githubusercontent.com/93038145/173428410-12f5b57c-c821-4a08-bd4a-0223c56f26e7.png)
+![image](https://user-images.githubusercontent.com/93038145/173428494-630684a5-543e-433c-af06-46f614d6eb49.png)
+
